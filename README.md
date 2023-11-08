@@ -26,11 +26,13 @@ Marketing dirigido: Utilizaremos estrategias de marketing en línea, como public
 
 3. Buscar inspiración en referentes del mercado
 
-https://www.mercadolibre.com.ar/
-https://wikimusculos.com.uy
-https://www.sportsworld.com.mx/
-https://amazon.com/
-https://tiendamia.com
+- https://www.mercadolibre.com.ar/
+- https://wikimusculos.com.uy
+- https://www.sportsworld.com.mx/
+- https://amazon.com/
+- https://tiendamia.com
+
+URL Repositorio
 
 
 
