@@ -60,7 +60,7 @@ Integrantes del Grupo:
 
 - Oswaldo Mejia Cueto
 
-- Danilo Barbosa
+- Danilo Barbosa: tengo 31 años, siempre me han gustado los temas de tecnologia, estudie Grabacion y Produccion musical pero me queria meter otra vez en el desarrollo web ya que en el pasado lo habia intentado pero no funciono, me gusta mucho la musica y los juegos pc.
 
 
 
