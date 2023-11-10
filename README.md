@@ -48,12 +48,18 @@ Suplementos.uy tiene una clara organización de productos y categorías en su si
 
 Integrantes del Grupo:
 
-- Nicolás Pedro Colli
-- Santiago Llorente
-- Agustín Ackermann
+- Nicolás Colli: Soy técnico químico y trabajo como operario en una central eléctrica, y empecé a estudiar programación con la idea de hacer un cambio de carrera. Me apasionan tanto la música como los videojuegos, y colecciono mucho de las dos cosas.
+
+- Santiago Llorente: Estoy a cargo de una empresa de distribución de insumos médicos. Comencé el curso buscando obtener conocimientos los cuales me sirvan para complementar con los de gestión, para así poder cambiar a la industria de IT, la cual considero que tiene más potencial.
+
+- Agustín Ackermann: soy bartender y administrativo en la Administración pública. Empecé el curso con la idea de entrar en el mundo de la programación e ingresar en ese mundo laboral, el cual considero tiene un mayor potencial
+
+- Adrian Aubel: trabajo en una empresa de plástico, me desempeño en el área de mantenimiento.. empecé el curso con la idea de poder cambiar de empleo.. en tiempos libres me gusta tocar el piano, y juntarme con familia y amigos.
+
+- Hernán Cabo: Tengo 26 años y soy diseñador gráfico. Además tengo un emprendimiento en el área de turismo. Empecé a estudiar programación ya que me llama la atención el mundo del diseño web.
+
 - Oswaldo Mejia Cueto
-- Adrian Aubel
-- Hernán Cabo
+
 - Danilo Barbosa
 
 
