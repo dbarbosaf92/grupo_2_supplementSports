@@ -1,5 +1,9 @@
-URL Repositorio
+URL Repositorio:
 https://github.com/dbarbosaf92/grupo_2_supplementSports
+
+Trello:
+https://trello.com/b/s1YdFrYE/supplementsports
+
 
 ¿Qué productos o servicios brindará nuestro sitio?
 Nuestro ecommerce ofrecerá una amplia gama de productos relacionados con la nutrición deportiva y alimentos saludables. Esto puede incluir suplementos como proteínas en polvo, vitaminas, minerales, aminoácidos, productos para la recuperación muscular, barras de proteína, alimentos orgánicos y saludables, snacks bajos en calorías, y más. También podríamos considerar incluir guías nutricionales y asesoramiento relacionado con la dieta y el entrenamiento.
@@ -52,20 +56,12 @@ Integrantes del Grupo:
 
 - Santiago Llorente: Estoy a cargo de una empresa de distribución de insumos médicos. Comencé el curso buscando obtener conocimientos los cuales me sirvan para complementar con los de gestión, para así poder cambiar a la industria de IT, la cual considero que tiene más potencial.
 
-- Agustín Ackermann: soy bartender y administrativo en la Administración pública. Empecé el curso con la idea de entrar en el mundo de la programación e ingresar en ese mundo laboral, el cual considero tiene un mayor potencial
+- Agustín Ackermann: Soy bartender y administrativo en la Administración pública. Empecé el curso con la idea de entrar en el mundo de la programación e ingresar en ese mundo laboral, el cual considero tiene un mayor potencial
 
-- Adrian Aubel: trabajo en una empresa de plástico, me desempeño en el área de mantenimiento.. empecé el curso con la idea de poder cambiar de empleo.. en tiempos libres me gusta tocar el piano, y juntarme con familia y amigos.
+- Adrian Aubel: Trabajo en una empresa de plástico, me desempeño en el área de mantenimiento. Empecé el curso con la idea de poder cambiar de empleo. En tiempos libres me gusta tocar el piano, y juntarme con familia y amigos.
 
 - Hernán Cabo: Tengo 26 años y soy diseñador gráfico. Además tengo un emprendimiento en el área de turismo. Empecé a estudiar programación ya que me llama la atención el mundo del diseño web.
 
-- Oswaldo Mejia Cueto
+- Oswaldo Mejia Cueto: Vivo en ciudad de México y tengo 27 años, elegí empezar este curso para aprender y tener nuevas herramientas y oportunidades laborales, me interesa todo lo relacionado con programación backend y ser capaz de participar en proyectos importantes y desafiantes.
 
-- Danilo Barbosa: tengo 31 años, siempre me han gustado los temas de tecnologia, estudie Grabacion y Produccion musical pero me queria meter otra vez en el desarrollo web ya que en el pasado lo habia intentado pero no funciono, me gusta mucho la musica y los juegos pc.
-
-
-
-
-
-
-
-
+- Danilo Barbosa: Tengo 31 años, siempre me han gustado los temas de tecnología, estudié Grabación y Producción musical pero me quería meter otra vez en el desarrollo web ya que en el pasado lo había intentado pero no funcionó, me gusta mucho la música y los juegos de PC.
