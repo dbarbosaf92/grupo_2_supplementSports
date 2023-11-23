@@ -6,7 +6,6 @@
   "description": "URL Repositorio\r https://github.com/dbarbosaf92/grupo_2_supplementSports",
   "version": "1.0.0",
   "main": "app.js",
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

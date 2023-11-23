@@ -1,0 +1,52 @@
+@import url(normalize.css);
+
+/* Header */
+
+header {
+  background-color: orangered;
+}
+
+nav {
+  padding: 0.5rem 1rem;
+}
+
+.logo {
+  width: 50px;
+}
+
+/* Main */
+
+main {
+  background-color: rgb(241, 241, 241);
+}
+
+.container {
+  max-width: 1280px;
+  margin: 0 auto;
+}
+
+form > div {
+  text-align: center;
+  padding: 5rem 0;
+}
+
+form input[type="text"] {
+  border: none;
+  padding: 1rem;
+  border-radius: 5px;
+  margin-bottom: 1rem;
+  width: 300px;
+}
+
+input[type="text"]:focus {
+  border: 2px solid orangered;
+}
+
+form input[type="submit"] {
+  border: none;
+  padding: 0.5rem 1rem;
+  border-radius: 5px;
+  color: white;
+  background-color: orangered;
+  width: 300px;
+}
