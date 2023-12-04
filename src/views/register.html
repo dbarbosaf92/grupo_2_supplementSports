@@ -1,1 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/css/styles.css">
+    <link rel="stylesheet"
+        href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+    <title>Register</title>
+</head>
+
+<body>
+    <header>
+        <div class="container">
+            <nav>
+                <div class="logo">
+                    <img src="/img/Supplement-sports.png" alt="logo">
+                </div>
+                <div>
+                    <ul>
+                        <li>
+                            <a href="">Link 1</a>
+                        </li>
+                        <li>
+                            <a href="">Link 2</a>
+                        </li>
+                        <li>
+                            <a href="">Link 3</a>
+                        </li>
+                        <li>
+                            <a href="">Link 4</a>
+                        </li>
+                    </ul>
+                </div>
+            </nav>
+        </div>
+    </header>
+    <main class="register">
+        <form class="register-form" action="/" method="POST">
+
+            <input class="box-nameReg" type="text" name="name" placeholder="Ingrese su nombre y apellido" required pattern="[A-Za-z\s]{7,100}" title="Sólo debe contener letras y espacios, con una longitud entre 7 y 100 caracteres">
+            <input class="box-userReg" type="text" name="user" placeholder="Ingrese un nombre de usuario" required pattern="[A-Za-z\s]{4,20}" title="Sólo debe contener letras y espacios, con una longitud entre 4 y 20 caracteres">
+            <input class="box-emailReg" type="email" name="email" placeholder="Ingrese su e-mail" required pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,}$" title="Ingresa un correo electrónico válido - example@example.com">
+            <br>
+            
+            <input type="password" name="pass" placeholder="Elegí tu contraseña" required pattern="(?=.*\d)(?=.*[a-z])(?=.*[A-Z])(?=.*\W).{8,}" 
+            title="La contraseña debe tener al menos 8 caracteres, incluir una mayúscula, una minúscula, un número y un carácter especial.">
+            <input type="password" name="pass_confirm" placeholder="Confirmá tu contraseña" required>
+            <br>
+            <label for="birth_date"><b>Fecha de nacimiento</b>
+            
+                <input class="box-birthReg" type="date" name="birth_date" id="birth_date"></label><br>
+            
+            <input type="text" name="addres" placeholder="Domicilio" required><br>
+
+
+            <h4>Intereses</h4><br>
+            <div class="interests">
+                <div>
+                    <input type="checkbox" name="interests" value="a" id="a">
+                    <label for="a">Energia</label>
+            
+                    <input type="checkbox" name="interests" value="b" id="b">
+                    <label for="b">Creatinas</label>
+                
+                    <input type="checkbox" name="interests" value="c" id="c">
+                    <label for="c">Proteinas</label>
+                
+                    <input type="checkbox" name="interests" value="d" id="d">
+                    <label for="d">Control de peso</label>
+            </div><br>
+            
+            <h4>Elegí tu foto de usuario</h4>
+            <input type="file" name="avatar">
+            <br>
+            <br>
+            
+            <input type="submit" value="ENVIAR">
+            <input type="reset" value="BORRAR">
+            <br>
+            <br>
+        </form>
+    </main>
+    <footer>
+        <div>
+             <ul>
+             <li>
+                  <a href="#" title="Inicia Sesión">Inicia Sesión</a>
+             </li>
+             <li>
+                  <a href="#" title="Mi Cuenta">Mi Cuenta</a>
+             </li>
+             <li>
+                  <a href="#" title="Carrito">Carrito</a>
+             </li>
+             </ul>
+        </div>
+        <div>
+             <ul>
+                  <li>
+                       <a href="#" title="Contactanos">Contactanos</a>
+                  </li>
+                  <li>
+                       <a href="#" title="Sobre nosotros">Sobre nosotros</a>
+                  </li>
+                  <li>
+                       <a href="#" title="Terminos y condiciones">Terminos y condiciones</a>
+                  </li>
+             </ul>    
+        </div>
+        <div>
+            <a href="#" title="Facebook" target="_blank">
+                  <i class="fa-brands fa-facebook"></i>
+            </a>
+            <a href="#" title="Instagram" target="_blank">
+                  <i class="fa-brands fa-instagram"></i>
+            </a>
+            <a href="#" title="Twitter" target="_blank">
+                  <i class="fa-brands fa-twitter"></i>
+            </a>
+        </div>
+        <div>
+             <p>©Supplementsports 2023 - Tienda de Suplementos, deporte y estilo de vida. Todos los derechos reservador.</p>
+        </div>
+             
+   </footer>
+  
+</body>
+</html>
+
 register
