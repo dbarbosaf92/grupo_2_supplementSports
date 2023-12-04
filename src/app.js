@@ -10,7 +10,7 @@ app.use(express.static("public"));
 
 // Ponemos a escuchar el servidor
 app.listen(3000, () => {
-    console.log("Servidor corriendo en el puerto 3000");
+    console.log("Servidor corriendo en el puerto  http://localhost:3000/");
 });
 
 // Definimos las rutas a los distintos pedidos que nuestro sitio sabe responder
